@@ -12,8 +12,9 @@
 
 ## Video
 
+https://github.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/video1390460113.mp4
 
-<video src="https://raw.githubusercontent.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/video1390460113.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/video1390460113.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Questions and Answers
