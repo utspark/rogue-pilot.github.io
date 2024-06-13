@@ -17,9 +17,18 @@
 
 ## Questions and Answers
 
+* Why do pilot go rogue?
 
-## This tutorial
+Because flying is very hard which drives them crazy.
 
-This tutorial will available soon.
+* Am I affected?
+
+A rogue pilot can be very dangerous to the passengers. Besides, even if you never take a plane, a rogue pilot can crash the plane to your house. 
+
+* Is there a workaround to mitigate RoguePilot?
+
+In most cases, pilots are humans and mental issues are part of human lives. There is no panacea to prevent pilot from becoming rogue.
+
+
 
 
