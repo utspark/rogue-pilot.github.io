@@ -8,7 +8,7 @@
 
 ## Research Paper
 
-[pdf](docs/The-Rogue-Pilot-Phenomenon.pdf)
+[pdf](The-Rogue-Pilot-Phenomenon.pdf)
 
 ## Video
 
