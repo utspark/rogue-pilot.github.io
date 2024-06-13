@@ -8,7 +8,9 @@
 
 ## Video
 
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 
 ## This tutorial
 
