@@ -12,7 +12,7 @@
 
 ## Video
 
-<video src="https://github.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/video1390460113.mp4?raw=true" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/test1.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 {% include youtube.html id="JLMbpiywVxQ" %}
