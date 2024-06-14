@@ -2,7 +2,7 @@
 
 ## Abstract
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![logo](https://github.com/rogue-pilot/rogue-pilot.github.io/blob/main/docs/logo_rogue_pilot.jpg)
 
 **Background:** Flying a plane is fun
 
