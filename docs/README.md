@@ -1,4 +1,4 @@
-<img src="logo_rogue_pilot.jpg" width=150 align=left>
+<img src="logo_rogue_pilot.jpg" width=150 align=right>
 
 
 # I love planes and I want to become a pilot
