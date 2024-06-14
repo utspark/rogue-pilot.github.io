@@ -1,8 +1,10 @@
+<img src="logo_rogue_pilot.jpg" width=150 align=left>
+
+
 # I love planes and I want to become a pilot
 
 ## Abstract
 
-<img src="logo_rogue_pilot.jpg" width=150 align=left>
 
 **Background:** Flying a plane is fun
 
