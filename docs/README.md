@@ -2,6 +2,8 @@
 
 ## Abstract
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 **Background:** Flying a plane is fun
 
 **This tutorial:** My favoriate equipemnt type is Embraer 175.
