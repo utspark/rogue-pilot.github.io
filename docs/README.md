@@ -4,6 +4,8 @@
 
 ![logo](https://github.com/rogue-pilot/rogue-pilot.github.io/blob/main/docs/logo_rogue_pilot.jpg)
 
+<img src="logo_rogue_pilot.jpg" width=1500 align=left>
+
 **Background:** Flying a plane is fun
 
 **This tutorial:** My favoriate equipemnt type is Embraer 175.
