@@ -1,7 +1,7 @@
 <img src="logo_rogue_pilot.jpg" width=150 align=right>
 
-# Rogue Pilot
-Understanding
+# Confused Pilot
+ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365
 
 
 ## Overview of Rogue Pilot
@@ -14,7 +14,7 @@ The talk also points to the larger implications of such vulnerabilities, highlig
 
 ## Research Paper
 
-[pdf](rogue_pilot_redacted.pdf) [cite](citation.txt)
+[pdf](rogue_pilot_arxiv.pdf) [cite](citation.txt)
 
 ## Demo Videos
 
