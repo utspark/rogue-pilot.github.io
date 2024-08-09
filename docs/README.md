@@ -14,7 +14,8 @@ The talk also points to the larger implications of such vulnerabilities, highlig
 
 ## Research Paper
 
-[pdf](rogue_pilot_arxiv.pdf) [cite](citation.txt)
+[pdf](rogue_pilot_arxiv.pdf) 
+[cite](citation.txt)
 
 ## Demo Videos
 
