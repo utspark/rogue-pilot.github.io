@@ -1,3 +1,3 @@
 Website repor for RoguePilot
 
-https://roguepilot.info
+https://confusedpilot.info
