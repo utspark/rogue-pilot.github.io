@@ -20,7 +20,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 * [Mohit Tiwari](https://www.ece.utexas.edu/people/faculty/mohit-tiwari) (Symmetry Systems / UT Austin)
 
 
-|  |  About them |
+|  Name  |  About them |
 | --------------- | :------------- |
 |<img src="imgs/ayush.png" width=50 align=left> | **Ayush RoyChowdhury** is an incoming master student at the Chandra Department of Electrical and Computer Engineering at the University of Texas Austin. His research interests include language model security, data security, and explainable artificial intelligence for security.|
 | <img src="imgs/mulong.jpeg" width=50 align=left> | **Mulong Luo** is currently a postdoctoral researcher at the University of Texas at Austin. His research interests are in computer architecture, side channel, and machine learning. He won best paper award at CPS-SPC workshop. He got his Ph.D. from Cornell University in 2023.|
