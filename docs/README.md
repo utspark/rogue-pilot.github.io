@@ -25,7 +25,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td>
-      <img src="imgs/mulong.png" width="50" align="left">
+      <img src="imgs/mulong.jpeg" width="50" align="left">
     </td>
     <td>
       <strong><a href="https://mulongluo.me">Mulong Luo</a></strong> (UT Austin)<br/>
