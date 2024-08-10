@@ -16,7 +16,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 <table>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/ayush.png" width="150">
+      <img src="imgs/ayush.png" width="100">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/ayushroyc/?trk=people-guest_people_search-card">Ayush Roychowdhury</a></strong> (UT Austin)<br/>
@@ -25,7 +25,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/mulong.jpeg" width="150">
+      <img src="imgs/mulong.jpeg" width="100">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://mulongluo.me">Mulong Luo</a></strong> (UT Austin)<br/>
@@ -34,7 +34,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/prateek.png" width="150">
+      <img src="imgs/prateek.png" width="100">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://prateeksahu.github.io">Prateek Sahu</a></strong> (UT Austin)<br/>
@@ -43,7 +43,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/sarbartha.png" width="150">
+      <img src="imgs/sarbartha.png" width="100">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/sarbartha-banerjee-6945b242/">Sarbartha Banerjee</a></strong> (UT Austin)<br/>
@@ -52,7 +52,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/mohit.jpeg" width="150">
+      <img src="imgs/mohit.jpeg" width="100">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.ece.utexas.edu/people/faculty/mohit-tiwari">Mohit Tiwari</a></strong> (Symmetry Systems / UT Austin)<br/>
