@@ -1,0 +1,6 @@
+
+@inproceedings{roguepilot,
+	title = {Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365},
+  author = {Ayush RoyChowdhury, Mulong Luo, Prateek Sahu, Sarbartha Banerjee, and Mohit Tiwari},
+	year = {2024},
+}
