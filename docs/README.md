@@ -27,6 +27,3 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 |<img src="imgs/prateek.png" width=100 align=right>|**Prateek Sahu** is currently a Ph.D. student at the University of Texas at Austin. His research interests are microservices, service mesh, cloud computing, function-as-a-service measurement.|
 |<img src="imgs/sarbartha.png" width=100 align=right>|**Sarbartha Banerjee** is currently a Ph.D. candidate at the University of Texas at Austin. His research interests are secure accelerators, side channel defense, machine learning security. |
 | <img src="imgs/mohit.jpeg" width=100 align=right> | **Mohit Tiwari** is an associate professor and he directs the SPARK lab at the University of Texas at Austin. His current research focuses on building secure systems, all the way from hardware to system software to applications that run on them. Prof. Tiwari received a PhD from UC Santa Barbara (2011) and was a post-doctoral fellow at UC Berkeley (2011-13) before joining UT.|
-
- <img src="imgs/0813-defcon-logo.png" width=300 align=right>
- <img src="imgs/ut_austin.png" width=300 align=right>
