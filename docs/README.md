@@ -21,3 +21,16 @@ The talk also points to the larger implications of such vulnerabilities, highlig
 * [Sarbartha Banerjee](https://www.linkedin.com/in/sarbartha-banerjee-6945b242/) (UT Austin)
 * [Mohit Tiwari](https://www.ece.utexas.edu/people/faculty/mohit-tiwari) (Symmetry Systems / UT Austin )
 
+
+|  |  About them |
+| ------------- | :------------- |
+|<img src="imgs/ayush.png" width=1500 align=right>|**Ayush RoyChowdhury** is currently a senior undergrad at the Chandra Department of Electrical and Computer Engineering at the University of Texas Austin. His research interests include language model security, data security, and explainable artificial intelligence for security. |
+| <img src="imgs/mulong.jpeg" width=1500 align=right> |**Mulong Luo** is currently a postdoctoral researcher at the University of Texas at Austin. His research interests are in computer architecture, side channel, and machine learning. He is selected as CPS rising star 2023. His work has been shortlisted for Top Picks in Hardware and Embedded Security, and he has also won best paper award at CPS-SPC workshop. He got his Ph.D. from Cornell University in 2023.|
+| <img src="imgs/mohit.jpeg" width=1500 align=right> | **Mohit Tiwari** is an associate professor and he directs the SPARK lab at the University of Texas at Austin. His current research focuses on building secure systems, all the way from hardware to system software to applications that run on them. Prof. Tiwari received a PhD from UC Santa Barbara (2011) and was a post-doctoral fellow at UC Berkeley (2011-13) before joining UT.|
+
+
+
+
+ <img src="imgs/0813-defcon-logo.png" width=300 align=right>
+ <img src="imgs/ut_austin.png" width=300 align=right>
+
