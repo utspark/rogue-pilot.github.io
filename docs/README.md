@@ -34,7 +34,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/prateek.png" width="100">
+      <img src="imgs/prateek.png" width="90">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://prateeksahu.github.io">Prateek Sahu</a></strong> (UT Austin)<br/>
@@ -43,7 +43,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/sarbartha.png" width="100">
+      <img src="imgs/sarbartha.png" width="90">
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/sarbartha-banerjee-6945b242/">Sarbartha Banerjee</a></strong> (UT Austin)<br/>
