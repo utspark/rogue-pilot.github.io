@@ -15,50 +15,51 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 <table>
   <tr>
-    <td>
-      <img src="imgs/ayush.png" width="50" align="left">
+    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+      <img src="imgs/ayush.png" width="50">
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/ayushroyc/?trk=people-guest_people_search-card">Ayush Roychowdhury</a></strong> (UT Austin)<br/>
       Ayush RoyChowdhury is an incoming master student at the Chandra Department of Electrical and Computer Engineering at the University of Texas Austin. His research interests include language model security, data security, and explainable artificial intelligence for security.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="imgs/mulong.jpeg" width="50" align="left">
+    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+      <img src="imgs/mulong.png" width="50">
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://mulongluo.me">Mulong Luo</a></strong> (UT Austin)<br/>
       Mulong Luo is currently a postdoctoral researcher at the University of Texas at Austin. His research interests are in computer architecture, side channel, and machine learning. He won best paper award at CPS-SPC workshop. He got his Ph.D. from Cornell University in 2023.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="imgs/prateek.png" width="50" align="left">
+    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+      <img src="imgs/prateek.png" width="50">
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://prateeksahu.github.io">Prateek Sahu</a></strong> (UT Austin)<br/>
       Prateek Sahu is currently a Ph.D. student at the University of Texas at Austin. His research interests are microservices, service mesh, cloud computing, function-as-a-service measurement.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="imgs/sarbartha.png" width="50" align="left">
+    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+      <img src="imgs/sarbartha.png" width="50">
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/sarbartha-banerjee-6945b242/">Sarbartha Banerjee</a></strong> (UT Austin)<br/>
       Sarbartha Banerjee is currently a Ph.D. candidate at the University of Texas at Austin. His research interests are secure accelerators, side channel defense, machine learning security.
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="imgs/mohit.jpeg" width="50" align="left">
+    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
+      <img src="imgs/mohit.jpeg" width="50">
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.ece.utexas.edu/people/faculty/mohit-tiwari">Mohit Tiwari</a></strong> (Symmetry Systems / UT Austin)<br/>
       Mohit Tiwari is an associate professor and he directs the SPARK lab at the University of Texas at Austin. His current research focuses on building secure systems, all the way from hardware to system software to applications that run on them. Prof. Tiwari received a PhD from UC Santa Barbara (2011) and was a post-doctoral fellow at UC Berkeley (2011-13) before joining UT.
     </td>
   </tr>
 </table>
+
 
 
