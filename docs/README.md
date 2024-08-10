@@ -13,23 +13,6 @@ The talk also points to the larger implications of such vulnerabilities, highlig
 [pdf](rogue_pilot_arxiv.pdf) 
 [cite](citation.txt)
 
-## Demo Videos
-
-* Attack 1 Demo
-
-<video src="https://github.com/rogue-pilot/rogue-pilot-internal/raw/main/videos/video1390460113.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-* Attack 2 Demo
-<video src="https://github.com/rogue-pilot/rogue-pilot-internal/raw/main/videos/video1957062264.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-* Attack 3 Demo
-<video src="https://github.com/rogue-pilot/rogue-pilot-internal/raw/main/videos/video1964994400.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-{% include youtube.html id="8j9yGWxCrDE" %}
-
 ## Contributors
 
 * [Ayush Roychowdhury](https://www.linkedin.com/in/ayushroyc/?trk=people-guest_people_search-card) (UT Austin)
@@ -78,57 +61,6 @@ Copilot for Microsoft 365 is a retrevial-augmented generation system that can ge
 * **Can I use the logo?**
 
   Yes. The logo is licensed under MIT license.
-
-* **Is Microsoft aware of this?**
-
-  Yes, we have already reported our findings to Microsoft and they acknowledged that they have received.
-
-## RoguePilot in the News
-
-* News outlet 1
-* News outlet 2
-* News outlet 3
-
-## Acknowledgments
-
-<img src="logo_rogue_pilot.jpg" width=150 align=right>
-
-
-# I love planes and I want to become a pilot
-
-## Abstract
-
-
-**Background:** Flying a plane is fun
-
-**This tutorial:** My favoriate equipemnt type is Embraer 175.
-
-## Research Paper
-
-[pdf](The-Rogue-Pilot-Phenomenon.pdf)
-
-## Video
-
-<video src="https://github.com/rogue-pilot/rogue-pilot.github.io/raw/main/docs/test1.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-{% include youtube.html id="JLMbpiywVxQ" %}
-
-
-## Questions and Answers
-
-* Why do pilot go rogue?
-
-Because flying is very hard which drives them crazy.
-
-* Am I affected?
-
-A rogue pilot can be very dangerous to the passengers. Besides, even if you never take a plane, a rogue pilot can crash the plane to your house. 
-
-* Is there a workaround to mitigate RoguePilot?
-
-In most cases, pilots are humans and mental issues are part of human lives. There is no panacea to prevent pilot from becoming rogue.
-
 
 
 
