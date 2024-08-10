@@ -1,6 +1,6 @@
 <img src="logo.jpg" width=150 align=right>
 
-## Overview of Rogue Pilot
+## Overview of ConfusedPilot
 
 The hype for integrating artificial intelligence into an enterprise’s daily work has become more prevalent after the introduction of AI-driven systems that use Retrieval Augmented Generation (RAG) as seen with Copilot for Microsoft 365. But is the trust put into such systems and their control over decision-making processes rational? System design vulnerabilities within Copilot can be exploited to cause a dissemination of misinformation impacting decision-making processes negatively.
 
