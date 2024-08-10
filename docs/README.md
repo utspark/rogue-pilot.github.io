@@ -28,7 +28,7 @@ The talk also points to the larger implications of such vulnerabilities, highlig
 <video src="https://github.com/rogue-pilot/rogue-pilot-internal/raw/main/videos/video1964994400.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-{% include youtube.html id="JLMbpiywVxQ" %}
+{% include youtube.html id="8j9yGWxCrDE" %}
 
 ## Contributors
 
