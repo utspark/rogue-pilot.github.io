@@ -1,4 +1,4 @@
-<img src="logo_rogue_pilot.jpg" width=150 align=right>
+<img src="logo.jpg" width=150 align=right>
 
 # Confused Pilot
 ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365
