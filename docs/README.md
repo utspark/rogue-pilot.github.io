@@ -46,7 +46,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
       <img src="imgs/sarbartha.png" width="90">
     </td>
     <td style="vertical-align: top; text-align: left;">
-      <strong><a href="https://www.linkedin.com/in/sarbartha-banerjee-6945b242/">Sarbartha Banerjee</a></strong> (UT Austin)<br/>
+      <strong><a href="https://sites.google.com/view/sarbartha/bio">Sarbartha Banerjee</a></strong> (UT Austin)<br/>
       Sarbartha Banerjee is currently a Ph.D. candidate at the University of Texas at Austin. His research interests are secure accelerators, side channel defense, machine learning security.
     </td>
   </tr>
