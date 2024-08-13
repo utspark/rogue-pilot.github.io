@@ -12,7 +12,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 ## Research Paper
 
-[ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](confused_pilot_arxiv.pdf).
+[ConfusedPilot: Compromising Enterprise Information Integrity and Confidentiality with Copilot for Microsoft 365](https://arxiv.org/pdf/2408.04870).
 [bibtex](citation.txt)
 
 ## Contributors
