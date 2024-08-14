@@ -60,10 +60,12 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.ece.utexas.edu/people/faculty/mohit-tiwari">Mohit Tiwari</a></strong> (Symmetry Systems / UT Austin)<br/>
-      Mohit Tiwari is an associate professor and he directs the SPARK lab at the University of Texas at Austin. His current research focuses on building secure systems, all the way from hardware to system software to applications that run on them. Prof. Tiwari received a PhD from UC Santa Barbara (2011) and was a post-doctoral fellow at UC Berkeley (2011-13) before joining UT.
+      Mohit Tiwari is an associate professor and he directs the SPARK lab at the University of Texas at Austin. He is also teh CEO of Symmetry Systems, Inc. His current research focuses on building secure systems, all the way from hardware to system software to applications that run on them. Prof. Tiwari received a PhD from UC Santa Barbara (2011) and was a post-doctoral fellow at UC Berkeley (2011-13) before joining UT.
     </td>
   </tr>
 </table>
 
+## Contact
 
+Please direct questions to [aroyc@utexas.edu](mailto:aroyc@utexas.edu?subject=Test) and [mulong@utexas.edu](mailto:mulong@utexas.edu?subject=Test)
 
