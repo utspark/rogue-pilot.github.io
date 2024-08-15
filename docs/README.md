@@ -11,7 +11,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 ## Research Paper
 
-[ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](https://arxiv.org/pdf/2408.04870).
+[ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](rogue_pilot_new.pdf).
 [bibtex](citation.txt)
 
 ## Contributors
