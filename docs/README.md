@@ -67,5 +67,5 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 ## Contact
 
-Please direct questions to [mohit.tiwari@austin.utexas.edu](mohit.tiwari@austin.utexas.edu).
+Please direct questions to [tiwari@austin.utexas.edu](tiwari@austin.utexas.edu).
 
