@@ -9,11 +9,6 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 ## ConfusedPilot is presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
 
-## Research Paper
-
-[ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](confused_pilot_new.pdf).
-[bibtex](citation.txt)
-
 ## Contributors
 
 <table>
