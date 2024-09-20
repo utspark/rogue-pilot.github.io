@@ -75,7 +75,7 @@ It's up to you! But we should warn you that other data security experts have bee
     </td>
     <td style="vertical-align: top; text-align: left;">
       <strong><a href="https://www.linkedin.com/in/ayushroyc/?trk=people-guest_people_search-card">Ayush Roychowdhury</a></strong> (UT Austin)<br/>
-      Ayush RoyChowdhury is an first year masters student at the Chandra Department of Electrical and Computer Engineering at the University of Texas Austin. His research interests include language model security, data security, and explainable artificial intelligence for security.
+      Ayush RoyChowdhury is a first year masters student at the Chandra Department of Electrical and Computer Engineering at the University of Texas Austin. His research interests include language model security, data security, and explainable artificial intelligence for security.
     </td>
   </tr>
   <tr>
