@@ -42,21 +42,21 @@ An insider threat is a risk posed by individuals within an organization who misu
 
 Copilot is an LLM that can integrate within your Microsoft ecosystem and be used as an AI assistant that generates content based on user prompts. Copilot for Microsoft 365 is a RAG-based system that can generate content based on the user prompt as well as resources shared and owned by the user within their enterprise.
 
-##### What is Confused Pilot targeting?
+##### What is ConfusedPilot targeting?
 
-Confused Pilot has two victims. The first victim is the LLM within the RAG-based system, in our case, Copilot. By introducing misinformation with malicious strings that read like instructions, the insider threat is able to confuse the LLM into disregarding other content that is present and also attribute the misinformation to some other user besides the insider threat. The second victim is the person receiving the response from the LLM. The insider threat has no control over the modification of someone else’s prompt to affect their generated response, so they have to use a retrieval mechanism within the RAG-based system to do it for them!
+ConfusedPilot has two victims. The first victim is the LLM within the RAG-based system, in our case, Copilot. By introducing misinformation with malicious strings that read like instructions, the insider threat is able to confuse the LLM into disregarding other content that is present and also attribute the misinformation to some other user besides the insider threat. The second victim is the person receiving the response from the LLM. The insider threat has no control over the modification of someone else’s prompt to affect their generated response, so they have to use a retrieval mechanism within the RAG-based system to do it for them!
 
-##### Is Confused Pilot a Copilot for Microsoft 365 vulnerability?
+##### Is ConfusedPilot a Copilot for Microsoft 365 vulnerability?
 
-Confused Pilot was used in Copilot for Microsoft 365 for the sake of presentation and paper; however, this is not a Copilot for Microsoft 365 problem only. This problem has been observed in other RAG-based systems that use LLAMA, Vicuna, and OpenAI. The main culprit of this problem is misuse of RAG-based systems such as Copilot for Microsoft 365, via improper setup of access control and data security mechanisms.
+ConfusedPilot was used in Copilot for Microsoft 365 for the sake of presentation and paper; however, this is not a Copilot for Microsoft 365 problem only. This problem has been observed in other RAG-based systems that use LLAMA, Vicuna, and OpenAI. The main culprit of this problem is misuse of RAG-based systems such as Copilot for Microsoft 365, via improper setup of access control and data security mechanisms.
 
-##### How is Confused Pilot different from a poisoning attack?
+##### How is ConfusedPilot different from a poisoning attack?
 
-At its core, Confused Pilot depends on the fact that data within the enterprise is poisoned by an insider threat. However, as seen in the demos, attribution and its ability to cross over into metadata provided by Copilot’s response adds non-repudiability and erasure of traceability to the mix.
+At its core, ConfusedPilot depends on the fact that data within the enterprise is poisoned by an insider threat. However, as seen in the demos, attribution and its ability to cross over into metadata provided by Copilot’s response adds non-repudiability and erasure of traceability to the mix.
 
-##### Am I affected by Confused Pilot?
+##### Am I affected by ConfusedPilot?
 
-It depends. This is a data security problem affecting RAG-based systems within enterprises with insider threats. If you are using Copilot for Microsoft 365 or other RAG-based systems without proper data security measures implemented, such as access control and data auditing, then you might be affected by our findings. Proper data security measures include, but are not limited to, applying Prompt Shields to Copilot, segmenting present data, auditing and verifying present data, and tagging insider threats as noted by our “Lasso of Defense” (slides 50-55 in the Confused Pilot Presentation).
+It depends. This is a data security problem affecting RAG-based systems within enterprises with insider threats. If you are using Copilot for Microsoft 365 or other RAG-based systems without proper data security measures implemented, such as access control and data auditing, then you might be affected by our findings. Proper data security measures include, but are not limited to, applying Prompt Shields to Copilot, segmenting present data, auditing and verifying present data, and tagging insider threats as noted by our “Lasso of Defense” (slides 50-55 in the ConfusedPilot Presentation).
 
 ##### As someone whose enterprise uses Copilot for Microsoft 365 or some other RAG-based system, what should I do?
 
