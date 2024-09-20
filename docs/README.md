@@ -8,8 +8,10 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 
 ## ConfusedPilot is presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
-[Paper](https://arxiv.org/abs/2408.04870)
-[Presentation](docs/ConfusedPilot(3).pdf)
+
+###[Paper](https://arxiv.org/abs/2408.04870)
+
+###[Presentation](docs/ConfusedPilot_Site.pdf)
 
 ## FAQs
 
