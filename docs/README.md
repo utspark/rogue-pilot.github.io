@@ -6,8 +6,11 @@ The hype for integrating artificial intelligence into an enterprise’s daily wo
 
 This talk will demonstrate such an attack that we have termed ConfusedPilot because of its ability to turn Copilot into a confused deputy. The attack occurs when a malicious document is introduced to the data pool (documents, presentations, other relevant files, etc.) related to a topic affecting the enterprise’s decision-making process. The malicious document contains a combination of corrupt data and malicious strings that suppress the correct documents related to the topic and respond to the user’s query with only the information present within the malicious document. Furthermore, the talk highlights how this attack can persist after deleting content within the malicious document or the document itself. The talk also points to the larger implications of such attacks, highlighting their cascading effect and existing security measures that can be used to reduce the attack’s effectiveness. Our talk sheds light on the current attacks and potential security measures that can shield enterprises from the adverse effects of such attacks on their AI-driven systems.
 
+## Updates
 
-## ConfusedPilot is presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
+#### 📢 ConfusedPilot is presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
+
+## Paper and Presentation
 
 [Paper](https://arxiv.org/abs/2408.04870)
 
