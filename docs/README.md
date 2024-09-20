@@ -53,7 +53,7 @@ At its core, Confused Pilot depends on the fact that data within the enterprise 
 
 ### Am I affected by Confused Pilot?
 
-It depends. This is a data security problem affecting RAG-based systems within enterprises with insider threats. If you are using Copilot for Microsoft 365 or other RAG-based systems without proper data security measures implemented, such as access control and data auditing, then you might be affected by our findings. Proper data security measures include, but are not limited to, applying Prompt Shields to Copilot, segmenting present data, auditing and verifying present data, and tagging insider threats as noted by our “Lasso of Defense” (slides 80-84 in the Confused Pilot Presentation).
+It depends. This is a data security problem affecting RAG-based systems within enterprises with insider threats. If you are using Copilot for Microsoft 365 or other RAG-based systems without proper data security measures implemented, such as access control and data auditing, then you might be affected by our findings. Proper data security measures include, but are not limited to, applying Prompt Shields to Copilot, segmenting present data, auditing and verifying present data, and tagging insider threats as noted by our “Lasso of Defense” (slides 50-55 in the Confused Pilot Presentation).
 
 ### As someone whose enterprise uses Copilot for Microsoft 365 or some other RAG-based system, what should I do?
 
