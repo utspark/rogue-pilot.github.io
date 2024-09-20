@@ -8,7 +8,7 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 ## Updates
 
-#### 📢 ConfusedPilot was presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
+##### 📢 ConfusedPilot was presented at [DEFCON AI Village 2024](https://aivillage.org/events/2024_talks)!
 
 ## Paper and Presentation
 
