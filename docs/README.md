@@ -17,11 +17,11 @@ This talk will demonstrate such an attack that we have termed ConfusedPilot beca
 
 * What is a large language model?
 
-Large Language Models (LLMs) are machine learning models that analyze, understand, and generate human language text.
+> Large Language Models (LLMs) are machine learning models that analyze, understand, and generate human language text.
 
 * What is retrieval augmented generation?
 
-Retrieval Augmented Generation (RAG) is a technique for improving response quality and eliminating an LLM system’s expensive retraining or fine-tuning phase. It incorporates an additional step in an LLM system where the model retrieves external data to augment its knowledge base, thus enhancing accuracy and reliability in generating responses, without using retraining or fine-tuning.
+> Retrieval Augmented Generation (RAG) is a technique for improving response quality and eliminating an LLM system’s expensive retraining or fine-tuning phase. It incorporates an additional step in an LLM system where the model retrieves external data to augment its knowledge base, thus enhancing accuracy and reliability in generating responses, without using retraining or fine-tuning.
 
 * What is access control?
 
