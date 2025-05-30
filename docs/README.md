@@ -80,15 +80,6 @@ It's up to you! But we should warn you that other data security experts have bee
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left; padding-right: 10px;">
-      <img src="imgs/mulong.jpeg" width="100">
-    </td>
-    <td style="vertical-align: top; text-align: left;">
-      <strong><a href="https://mulongluo.me">Mulong Luo</a></strong> (UT Austin)<br/>
-      Mulong Luo is currently a postdoctoral researcher at the University of Texas at Austin. His research interests are in computer architecture, side channel, and machine learning. He won best paper award at CPS-SPC workshop. He got his Ph.D. from Cornell University in 2023.
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; text-align: left; padding-right: 10px;">
       <img src="imgs/prateek.png" width="90">
     </td>
     <td style="vertical-align: top; text-align: left;">
